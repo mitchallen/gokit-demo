@@ -1,5 +1,10 @@
 # gokit-demo
 
+## To run
+
+```
+go run main.go
+```
 
 ## Example
 
