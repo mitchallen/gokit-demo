@@ -8,7 +8,7 @@ go run main.go
 
 ## Example
 
-Example of how this module downloads the various modules to packages:
+Example of how this module downloads the various packages:
 
 ```
 $ go get github.com/mitchallen/gokit@v0.3.0
