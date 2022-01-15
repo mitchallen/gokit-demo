@@ -1,5 +1,7 @@
 github.com/mitchallen/coin v0.1.0 h1:kX3GHaTE6DjBAtlmXQs7MAp+T4DBiR2USbk6s5SBEiA=
 github.com/mitchallen/coin v0.1.0/go.mod h1:gfy4ktrYLH5aUu5k8tciaK8zeclmC/3lic9WN8F2cIA=
+github.com/mitchallen/coin v0.1.1 h1:T8CQELN6Kj6Id70ZRAdWp0fjhiw56Xsz8LPAMkgPLsw=
+github.com/mitchallen/coin v0.1.1/go.mod h1:gfy4ktrYLH5aUu5k8tciaK8zeclmC/3lic9WN8F2cIA=
 github.com/mitchallen/gokit v0.2.0 h1:Iy6Yl6OIiQGtsuIP9wTcbO9KqIr1RD22J1Iqj8ZJo9M=
 github.com/mitchallen/gokit v0.2.0/go.mod h1:o70yg2HFGiYEp2orkntOKZqd8JZxHkDL92bDfbjH5ls=
 github.com/mitchallen/gokit v0.3.0 h1:azSH/sYCDFPOb56/na/KD3e1Bi2BaxnH27nxS20kv8s=
